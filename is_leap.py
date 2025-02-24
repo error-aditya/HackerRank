@@ -8,3 +8,5 @@ class leap:
 
 n = leap()
 leap.is_leap()
+
+print(print('hello')) #prints "hello" first then "none"
